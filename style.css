@@ -1,6 +1,6 @@
 body{
-            background-color: rgb(236, 171, 51);
-            color:rgb(0, 0, 19)
+            background-color: rgb(63, 45, 160);
+            color:rgb(41, 2, 29)
         }
         h1{
             color:rgb(0, 0, 0)
@@ -9,14 +9,14 @@ body{
 
     #html{
 
-         color: rgb(155, 52, 52);
+         color: rgb(27, 2, 18);
     
     }
     
     #curtir{
-        background-color: rgb(226, 96, 96);
-        color: black;
+        background-color: rgb(76, 78, 245);
+        color: rgb(20, 8, 8);
         padding: 5px 10px 5px 10px; /*espaço de dentro*/
-        border: 2px solid darkred; /*borda*/
+        border: 2px solid rgb(14, 0, 139); /*borda*/
         
     }
