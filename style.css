@@ -1,6 +1,6 @@
 body{
-            background-color: rgb(63, 45, 160);
-            color:rgb(41, 2, 29)
+            background-color: rgb(116, 98, 219);
+            color:rgb(0, 0, 0)
         }
         h1{
             color:rgb(0, 0, 0)
@@ -9,7 +9,7 @@ body{
 
     #html{
 
-         color: rgb(27, 2, 18);
+         color: rgb(12, 11, 12);
     
     }
     
@@ -17,6 +17,6 @@ body{
         background-color: rgb(76, 78, 245);
         color: rgb(20, 8, 8);
         padding: 5px 10px 5px 10px; /*espaço de dentro*/
-        border: 2px solid rgb(14, 0, 139); /*borda*/
+        border: 2px solid rgb(70, 65, 119); /*borda*/
         
     }
